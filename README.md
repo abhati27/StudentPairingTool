@@ -1,5 +1,6 @@
 # StudentPairingTool
 This is a robust and user-friendly tool developed in Java. Its primary function is to generate random student groups, given a list of student names from a text file.
+
 <img width="776" alt="Screen Shot 2023-05-10 at 5 25 48 PM" src="https://github.com/abhati27/StudentPairingTool/assets/60200047/f480812b-9799-4a8c-a9c8-ad57ffbfac13">
 
 ## Features
